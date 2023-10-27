@@ -44,9 +44,7 @@ int main() {
   for (int i = 0; i < 26; i++) {
     printf("%c : %d times\n", 'A' + i, uppercase[i]);
   }
-
-  // More of your code here to
-  // Display the letter counts
+  printf("newline for no github");
 
   return 0;
 }
